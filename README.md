@@ -10,6 +10,12 @@
 
 ![oled](https://raw.githubusercontent.com/Wiz-IO/LIB/master/LoRa/oled-e5.jpg)
 
+## Install Platform ( DO NOT INSTALL - is not ready yet )
+_Note: be sure [**git**](https://git-scm.com/downloads) is installed_
+* PIO Home > Platforms > Advanced Installation 
+* paste https://github.com/Wiz-IO/wizio-lora
+* INSTALL
+
 ## Thanks to:
 * [Comet Electronics](https://www.comet.bg/en/)
 
